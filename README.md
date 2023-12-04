@@ -5,7 +5,7 @@ Hey! I'm Marcel, and I am a software developer and a game programmer.
 ## 🌐 Socials:
 //[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-sunyer-28910a133/?originalSubdomain=es)
 //[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/mscaldu2)
-//[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ericgamedev/)
+//[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/selinho_8/?next=https%3A%2F%2Fwww.instagram.com%2Fks_sg8%2F)
 //[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF4713.svg?logo=itch.io&logoColor=white)](https://ericlr.itch.io/)
 
 
